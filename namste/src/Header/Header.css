@@ -1,0 +1,21 @@
+.icon{
+    border-radius:10px;
+    width:150px;
+    margin:10px;
+    
+}
+.Header >ul{
+  
+  
+  list-style-type:none ;
+  display: flex;
+  margin-left:500px;
+  gap:50px;
+  margin-top:-50px;
+
+   
+
+}
+.Header >ul>li{
+   color:black;
+}

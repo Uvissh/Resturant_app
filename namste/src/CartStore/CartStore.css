@@ -1,0 +1,26 @@
+
+
+.CartItems{
+    margin:5px;
+    padding:10px;
+    width:300px;
+    border:1px black;
+    border-radius:10px;
+    background:pink;
+   
+    
+    
+    
+}
+.IMG{
+    border-radius:10px;
+    width:250px;
+}
+.Cards {
+    transition: transform .2s;
+}
+.Cards:hover{
+    scale:10px;
+    transform: scale(1.5);
+
+}

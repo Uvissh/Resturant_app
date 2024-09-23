@@ -1,0 +1,8 @@
+.clear{
+    margin:5px;
+    background-color:green;
+    border-radius:5px;
+}
+.CartFood{
+    display:flex;
+}
